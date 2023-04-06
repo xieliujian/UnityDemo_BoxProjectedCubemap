@@ -76,6 +76,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ReflectionCube:
+        m_Texture: {fileID: 8900000, guid: 30d3d761180673246ac4056acbb0b344, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -95,6 +99,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
+    - _BlendPercent: 0.2
     - _BumpScale: 1
     - _ClearCoat: 0
     - _ClearCoatMask: 0
@@ -125,6 +130,9 @@ Material:
     - _BBoxMax: {r: 14.202994, g: 1.3576052, b: -6.7811375, a: 0}
     - _BBoxMin: {r: 7.1972265, g: -2.2722337, b: -13.795496, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BoxCubeReflBoxMax: {r: 14.202994, g: 1.3576052, b: -6.781138, a: 0}
+    - _BoxCubeReflBoxMin: {r: 7.1972265, g: -2.2722337, b: -13.795496, a: 0}
+    - _BoxCubeReflCenter: {r: 10.70011, g: -0.45731425, b: -10.288317, a: 0}
     - _Color: {r: 0.58431375, g: 0.58431375, b: 0.58431375, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EnviCubeMapPos: {r: 10.70011, g: -0.45731425, b: -10.288317, a: 0}
