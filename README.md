@@ -66,6 +66,7 @@ half3 BoxProjectedCubemapDirection(half3 worldRefl, float3 worldPos, float4 cube
 ## 原理
 
 网页的第三章节原理介绍
-[catlikecoding][https://catlikecoding.com/unity/tutorials/rendering/part-8/]
+
+[catlikecoding](https://catlikecoding.com/unity/tutorials/rendering/part-8/)
 
 
